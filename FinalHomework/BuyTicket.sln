@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuyTicket", "BuyTicket\BuyTicket.csproj", "{81B9E6F1-EEAB-4BEF-8D57-A400AD58A9D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketLibrary", "TicketLibrary\TicketLibrary.csproj", "{68AA544A-CF6E-43AA-B4D1-434FB06356E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81B9E6F1-EEAB-4BEF-8D57-A400AD58A9D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B9E6F1-EEAB-4BEF-8D57-A400AD58A9D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B9E6F1-EEAB-4BEF-8D57-A400AD58A9D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B9E6F1-EEAB-4BEF-8D57-A400AD58A9D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68AA544A-CF6E-43AA-B4D1-434FB06356E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68AA544A-CF6E-43AA-B4D1-434FB06356E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68AA544A-CF6E-43AA-B4D1-434FB06356E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68AA544A-CF6E-43AA-B4D1-434FB06356E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

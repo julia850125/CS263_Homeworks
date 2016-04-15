@@ -1,0 +1,11 @@
+c:\users\test\documents\visual studio 2015\Projects\BuyTicket\BuyTicket\bin\Debug\BuyTicket.exe.config
+c:\users\test\documents\visual studio 2015\Projects\BuyTicket\BuyTicket\obj\Debug\BuyTicket.csprojResolveAssemblyReference.cache
+c:\users\test\documents\visual studio 2015\Projects\BuyTicket\BuyTicket\obj\Debug\BuyTicket.Form1.resources
+c:\users\test\documents\visual studio 2015\Projects\BuyTicket\BuyTicket\obj\Debug\BuyTicket.Properties.Resources.resources
+c:\users\test\documents\visual studio 2015\Projects\BuyTicket\BuyTicket\obj\Debug\BuyTicket.csproj.GenerateResource.Cache
+c:\users\test\documents\visual studio 2015\Projects\BuyTicket\BuyTicket\bin\Debug\BuyTicket.exe
+c:\users\test\documents\visual studio 2015\Projects\BuyTicket\BuyTicket\bin\Debug\BuyTicket.pdb
+c:\users\test\documents\visual studio 2015\Projects\BuyTicket\BuyTicket\obj\Debug\BuyTicket.exe
+c:\users\test\documents\visual studio 2015\Projects\BuyTicket\BuyTicket\obj\Debug\BuyTicket.pdb
+c:\users\test\documents\visual studio 2015\Projects\BuyTicket\BuyTicket\bin\Debug\TicketLibrary.dll
+c:\users\test\documents\visual studio 2015\Projects\BuyTicket\BuyTicket\bin\Debug\TicketLibrary.pdb
